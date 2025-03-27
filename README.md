@@ -29,12 +29,12 @@ print("Hello, World!")
 Написать программу Hello World на C# с запуском на Unity.
 
 Ход работы:
-- Зарегистрировала аккаунт на сайте unity.com
-- Установила Unity Hub.
-- Установила актуальную версию Unity 6000.0.32f1
-- Установила Microsoft Visual Studio 2022.
-- Создала новый 3D проект.
-- Синхронизировала Microsoft Visual Studio с Unity.
+- Зарегистрировал аккаунт на сайте unity.com.
+- Установил Unity Hub.
+- Установил Unity.
+- Установил Microsoft Visual Studio.
+- Создал новый 3D проект.
+- Синхронизировал Microsoft Visual Studio с Unity.
 ```py
 using System.Collections;
 using System.Collections.Generic;
@@ -65,6 +65,9 @@ public class HelloWorld : MonoBehaviour
 - Оформил отчет.
 
 # Выводы
-В ходе выполнения данной работы была проверенна штатность работы программ (Anaconda, Jupyter lab, Unity Hub и Microsoft Visual Studio), а так-же был создан репозиторий с использованием markdown-разметки.
+По итогам лабораторной работы я научился:
+- Писать код программы на Python в Jupiter Notebook.
+- Писать код программы на C# на Unity.
+- Формировать отчет в GitHub с markdown-разметкой.
 # Powered by
 Николаев Андрей Ильич
