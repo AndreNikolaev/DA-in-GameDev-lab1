@@ -14,6 +14,7 @@
 - Научиться оформлять отчет в виде документации на github (markdown-разметка).
 # Задание 1
 Написать программу Hello World на Python с запуском в Jupiter Notebook.
+
 Ход работы:
 - Установить дистрибутив Anaconda.
 - Запустить Anaconda-Navigator.
