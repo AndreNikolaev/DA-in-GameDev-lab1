@@ -15,7 +15,8 @@
 Ход работы: Была скачана программа Anaconda. В Anaconda prompt необходимо вписывать команду jupyterlab. После чего заходим на страницу Jupyter lab. Создаём в нём Notebook.ipynb, вписываем код.
 print("Hello, World!")
 
-![image](https://github.com/user-attachments/assets/845e99da-d8b4-4112-8810-965a840c567c)
+![image](https://github.com/user-attachments/assets/7dc047f8-4f0c-47bb-b18a-c03afbcba173)
+
 
 Нажимаем на "Run", и получаем ответ Hello, World!
 # Задание 2
