@@ -27,7 +27,14 @@ print("Hello, World!")
 Нажимаем на "Run", и получаем ответ Hello, World!
 # Задание 2
 Написать программу Hello World на C# с запуском на Unity.
-Ход работы: Скачали программу Unity. Авторизовались в ней, получили Unity Id, затем установили Microsoft Visual Studio. В Unity Hub создали 3D поект. В нём(3D проекте), создали куб и C# Script. В C# Script пишем
+
+Ход работы:
+- Зарегистрировала аккаунт на сайте unity.com
+- Установила Unity Hub.
+- Установила актуальную версию Unity 6000.0.32f1
+- Установила Microsoft Visual Studio 2022.
+- Создала новый 3D проект.
+- Синхронизировала Microsoft Visual Studio с Unity.
 ```py
 using System.Collections;
 using System.Collections.Generic;
