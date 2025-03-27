@@ -42,15 +42,14 @@ public class HelloWorld : MonoBehaviour
 ```
 
 Сохраняем его. После чего наводим данный документ на куб и проигрываем сцену. В консоле у нас появляется Hello, World!.
-![image](https://github.com/user-attachments/assets/f43ca7e6-2b72-40f4-aae5-4bb882702b23)
+![image](https://github.com/user-attachments/assets/899f60d6-0bd5-4f33-a6e0-43b0e26ae856)
 
-![image](https://github.com/user-attachments/assets/1f155db0-daa0-471f-8956-0b5a5c577f3a)
 # Задание 3
 # Оформить отчет в виде документации на github (markdown-разметка).
 
 Ход работы:
 
-•	Использовав в качестве примера, шаблонный отчет, я оформил своё выполнененное задание с GitHabe с использованием markdown-разметки.
+•	Использовав в качестве примера, шаблонный отчет, я оформил выполнененное задание с GitHub с использованием markdown-разметки.
 # Выводы
 В ходе выполнения данной работы была проверенна штатность работы программ (Anaconda, Jupyter lab, Unity Hub и Microsoft Visual Studio) и так-же создал свой первый репозиторий с использованием markdown-разметки.
 # Powered by
