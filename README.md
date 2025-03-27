@@ -41,8 +41,6 @@ public class HelloWorld : MonoBehaviour
 
 ```
 
-![image](https://github.com/user-attachments/assets/de6c208c-46a7-45cf-979a-c6dfef2fffeb)
-
 Сохраняем его. После чего наводим данный документ на куб и проигрываем сцену. В консоле у нас появляется Hello, World!.
 ![image](https://github.com/user-attachments/assets/f43ca7e6-2b72-40f4-aae5-4bb882702b23)
 
