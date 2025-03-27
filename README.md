@@ -9,10 +9,15 @@
 | Задание 3 | * | 20 |
 
 # Цель работы
-Проверить работу программ: "Jupyter lab" и "Unity".
+- Ознакомиться с написанием кода на языке Python с запуском в Jupiter Notebook. 
+- Ознакомиться с написанием кода на языке C# с запуском в Unity.
+- Научиться оформлять отчет в виде документации на github (markdown-разметка).
 # Задание 1
 Написать программу Hello World на Python с запуском в Jupiter Notebook.
-Ход работы: Была скачана программа Anaconda. В Anaconda prompt необходимо вписывать команду jupyterlab. После чего заходим на страницу Jupyter lab. Создаём в нём Notebook.ipynb, вписываем код.
+Ход работы:
+- Установить дистрибутив Anaconda.
+- Запустить Anaconda-Navigator.
+- Запустить инструмент Jupyter Notebook.
 print("Hello, World!")
 
 ![image](https://github.com/user-attachments/assets/7dc047f8-4f0c-47bb-b18a-c03afbcba173)
